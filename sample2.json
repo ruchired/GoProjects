@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ruchita",
+    "email": "ruchita@example.com",
+    "phone": "+1-678-555-1234",
+    "balance": 200
+  },
+  {
+    "name": "Alex",
+    "email": "alex@example.com",
+    "phone": "+1-404-555-1111",
+    "balance": 800
+  }
+]
+
+
